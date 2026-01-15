@@ -1,0 +1,10 @@
+{
+  "extends": "flarum-tsconfig",
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": false
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
